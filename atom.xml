@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>huhuhuhr</title>
+  
+  <subtitle>HUHUHUHR</subtitle>
+  <link href="https://huhuhuhr.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://huhuhuhr.github.io/"/>
+  <updated>2024-03-18T15:07:42.160Z</updated>
+  <id>https://huhuhuhr.github.io/</id>
+  
+  <author>
+    <name>huhuhuhr</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>elasticsearchreader</title>
+    <link href="https://huhuhuhr.github.io/2024/02/26/elasticsearchreader/"/>
+    <id>https://huhuhuhr.github.io/2024/02/26/elasticsearchreader/</id>
+    <published>2024-02-26T21:53:11.000Z</published>
+    <updated>2024-03-18T15:07:42.160Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h3 id=&quot;1-快速介绍&quot;&gt;&lt;a href=&quot;#1-快速介绍&quot; class=&quot;headerlink&quot; title=&quot;1 快速介绍&quot;&gt;&lt;/a&gt;1 &lt;a</summary>
+        
+      
+    
+    
+    
+    <category term="datax" scheme="https://huhuhuhr.github.io/categories/datax/"/>
+    
+    
+    <category term="datax" scheme="https://huhuhuhr.github.io/tags/datax/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>linux性能实战</title>
+    <link href="https://huhuhuhr.github.io/2024/02/20/linux-xing-neng-shi-zhan/"/>
+    <id>https://huhuhuhr.github.io/2024/02/20/linux-xing-neng-shi-zhan/</id>
+    <published>2024-02-20T13:52:23.000Z</published>
+    <updated>2024-03-18T15:07:42.160Z</updated>
+    
+    
+    
+    
+    <category term="linux" scheme="https://huhuhuhr.github.io/categories/linux/"/>
+    
+    
+    <category term="linux" scheme="https://huhuhuhr.github.io/tags/linux/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>linux-cmd</title>
+    <link href="https://huhuhuhr.github.io/2024/02/15/linux-cmd/"/>
+    <id>https://huhuhuhr.github.io/2024/02/15/linux-cmd/</id>
+    <published>2024-02-15T15:48:24.000Z</published>
+    <updated>2024-03-18T15:07:42.160Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;cd：&quot;&gt;&lt;a href=&quot;#cd：&quot; class=&quot;headerlink&quot; title=&quot;cd：&quot;&gt;&lt;/a&gt;cd：&lt;/h2&gt;&lt;pre&gt;&lt;code&gt;功能：切换当前工作目录。
+用法：cd [目录路径]
+示例：cd</summary>
+        
+      
+    
+    
+    
+    <category term="linux" scheme="https://huhuhuhr.github.io/categories/linux/"/>
+    
+    
+    <category term="linux" scheme="https://huhuhuhr.github.io/tags/linux/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Actions实现自动化部署Hexo博客</title>
+    <link href="https://huhuhuhr.github.io/2024/02/06/actions-shi-xian-zi-dong-hua-bu-shu-hexo-bo-ke/"/>
+    <id>https://huhuhuhr.github.io/2024/02/06/actions-shi-xian-zi-dong-hua-bu-shu-hexo-bo-ke/</id>
+    <published>2024-02-06T13:09:48.000Z</published>
+    <updated>2024-03-18T15:07:42.160Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;HEXO搭建博客-Actions实现自动化部署Hexo博客&quot;&gt;&lt;a href=&quot;#HEXO搭建博客-Actions实现自动化部署Hexo博客&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="hexo" scheme="https://huhuhuhr.github.io/categories/hexo/"/>
+    
+    
+    <category term="hexo" scheme="https://huhuhuhr.github.io/tags/hexo/"/>
+    
+    <category term="github" scheme="https://huhuhuhr.github.io/tags/github/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>rpmbuild</title>
+    <link href="https://huhuhuhr.github.io/2024/01/21/rpmbuild/"/>
+    <id>https://huhuhuhr.github.io/2024/01/21/rpmbuild/</id>
+    <published>2024-01-21T21:34:55.000Z</published>
+    <updated>2024-03-18T15:07:42.160Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;构建脚本例子&quot;&gt;&lt;a href=&quot;#构建脚本例子&quot; class=&quot;headerlink&quot; title=&quot;构建脚本例子&quot;&gt;&lt;/a&gt;构建脚本例子&lt;/h1&gt;&lt;pre class=&quot;line-numbers language-shell&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="linux" scheme="https://huhuhuhr.github.io/categories/linux/"/>
+    
+    
+    <category term="rpm包构建" scheme="https://huhuhuhr.github.io/tags/rpm%E5%8C%85%E6%9E%84%E5%BB%BA/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>快速搭建前端工程学习记录</title>
+    <link href="https://huhuhuhr.github.io/2021/08/29/vue-admin-template/"/>
+    <id>https://huhuhuhr.github.io/2021/08/29/vue-admin-template/</id>
+    <published>2021-08-29T13:46:43.000Z</published>
+    <updated>2024-03-18T15:07:42.160Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h3 id=&quot;目标&quot;&gt;&lt;a href=&quot;#目标&quot; class=&quot;headerlink&quot; title=&quot;目标&quot;&gt;&lt;/a&gt;目标&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;input checked=&quot;&quot; disabled=&quot;&quot; type=&quot;checkbox&quot;&gt; </summary>
+        
+      
+    
+    
+    
+    <category term="vue" scheme="https://huhuhuhr.github.io/categories/vue/"/>
+    
+    
+    <category term="vue" scheme="https://huhuhuhr.github.io/tags/vue/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>VUE生命周期学习</title>
+    <link href="https://huhuhuhr.github.io/2021/08/28/vue-life/"/>
+    <id>https://huhuhuhr.github.io/2021/08/28/vue-life/</id>
+    <published>2021-08-28T08:21:33.000Z</published>
+    <updated>2024-03-18T15:07:42.160Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h3 id=&quot;生命周期示意图&quot;&gt;&lt;a href=&quot;#生命周期示意图&quot; class=&quot;headerlink&quot; title=&quot;生命周期示意图&quot;&gt;&lt;/a&gt;生命周期示意图&lt;/h3&gt;&lt;img src=&quot;/2021/08/28/vue-life/vue.png&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="vue" scheme="https://huhuhuhr.github.io/categories/vue/"/>
+    
+    
+    <category term="vue" scheme="https://huhuhuhr.github.io/tags/vue/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>HEXO图片不展示问题解决</title>
+    <link href="https://huhuhuhr.github.io/2021/08/26/hexo-tu-pian-bu-zhan-shi-wen-ti-jie-jue/"/>
+    <id>https://huhuhuhr.github.io/2021/08/26/hexo-tu-pian-bu-zhan-shi-wen-ti-jie-jue/</id>
+    <published>2021-08-26T06:55:47.000Z</published>
+    <updated>2024-03-18T15:07:42.160Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h3 id=&quot;安装插件&quot;&gt;&lt;a href=&quot;#安装插件&quot; class=&quot;headerlink&quot; title=&quot;安装插件&quot;&gt;&lt;/a&gt;安装插件&lt;/h3&gt;&lt;p&gt;于工程根目录下执行如下&lt;/p&gt;
+&lt;pre class=&quot;line-numbers language-bash&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="hexo" scheme="https://huhuhuhr.github.io/categories/hexo/"/>
+    
+    
+    <category term="hexo" scheme="https://huhuhuhr.github.io/tags/hexo/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>NIFI远程代码执行漏洞-ExecuteProcess</title>
+    <link href="https://huhuhuhr.github.io/2021/08/24/nifi-yuan-cheng-dai-ma-zhi-xing-lou-dong/"/>
+    <id>https://huhuhuhr.github.io/2021/08/24/nifi-yuan-cheng-dai-ma-zhi-xing-lou-dong/</id>
+    <published>2021-08-24T23:30:12.000Z</published>
+    <updated>2024-03-18T15:07:42.160Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h3 id=&quot;背景&quot;&gt;&lt;a href=&quot;#背景&quot; class=&quot;headerlink&quot; title=&quot;背景&quot;&gt;&lt;/a&gt;背景&lt;/h3&gt;&lt;p&gt;&lt;a</summary>
+        
+      
+    
+    
+    
+    <category term="etl" scheme="https://huhuhuhr.github.io/categories/etl/"/>
+    
+    
+    <category term="nifi" scheme="https://huhuhuhr.github.io/tags/nifi/"/>
+    
+    <category term="ExecuteProcess" scheme="https://huhuhuhr.github.io/tags/ExecuteProcess/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>HEXO搭建博客</title>
+    <link href="https://huhuhuhr.github.io/2021/08/21/hexo-da-jian-bo-ke/"/>
+    <id>https://huhuhuhr.github.io/2021/08/21/hexo-da-jian-bo-ke/</id>
+    <published>2021-08-21T21:10:30.000Z</published>
+    <updated>2024-03-18T15:07:42.160Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</summary>
+        
+      
+    
+    
+    
+    <category term="hexo" scheme="https://huhuhuhr.github.io/categories/hexo/"/>
+    
+    
+    <category term="hexo" scheme="https://huhuhuhr.github.io/tags/hexo/"/>
+    
+    <category term="Markdown" scheme="https://huhuhuhr.github.io/tags/Markdown/"/>
+    
+  </entry>
+  
+</feed>
